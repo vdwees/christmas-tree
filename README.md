@@ -6,4 +6,4 @@ To use, clone and edit the service file as needed, copy it to `/lib/systemd/syst
 
 It's not elegant. All its doing is turning the usb ports on and off. On the other hand, this script works for any usb-powered device that needs to be turned on or off.
 
-Note that an easy way to automate the trigger is to make a shortcut on an iOS device that requests the `/on`, `/off`, or `/toggle` endpoints. For example, my tree turns on when I stop my alarm.
+Note that an easy way to automate the trigger is to make a shortcut on an iOS device that requests the `/on`, `/off`, or `/toggle` endpoints. For example, my tree turns on when I stop my morning alarm.
